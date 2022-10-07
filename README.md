@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Bedirhan Ugur</h1>
-<h5 align="left">I'm a Creative Coder. <br> I'm interested in Computer Art. <br>I explore styles and scenes focusing on technology, nature and geometric forms.</h3>
+<h4 align="left">I'm a Creative Coder. I'm interested in Computer Art. <br>I explore styles and scenes focusing on technology, nature and geometric forms.</h4>
 
 ---
 
