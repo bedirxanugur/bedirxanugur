@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi 👋, I'm Bedirhan Ugur</h1>
 <h3 align="left">I'm a Creative Coder. I'm interested in Computer Art.<br>I explore styles and scenes focusing on technology, nature and geometric forms.</h3>
-<img src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" alt="" width="400" align="right">
+<img src="https://thumbs.gfycat.com/TanDapperBorderterrier.webp" alt="" width="300" align="right">
 
 ---
 
@@ -13,4 +13,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bedirxanugur&theme=react&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bedirxanugur&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bedirxanugur&icon=2&color=12)](https://visitcount.itsvg.in)
