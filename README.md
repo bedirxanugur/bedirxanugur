@@ -1,5 +1,9 @@
+
+
 <h1 align="left">Hi 👋, I'm Bedirhan Ugur</h1>
 <h4 align="left">I'm a Creative Coder. I'm interested in Computer Art. <br>I explore styles and scenes focusing on technology, nature and geometric forms.</h4>
+
+![](https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif)
 
 ---
 
