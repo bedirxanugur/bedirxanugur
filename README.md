@@ -3,10 +3,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.behance.net/bedirxanugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="bedirxanugur" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bedirxanugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bedirxanugur" height="30" width="40" /></a>
-<a href="https://twitter.com/bedirxanugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bedirxanugur" height="30" width="40" /></a>
-<a href="https://instagram.com/bedirxanugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bedirxanugur" height="30" width="40" /></a>
+<a href="https://www.behance.net/bedirxanugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="bedirxanugur" height="30" width="50" /></a>
+<a href="https://twitter.com/bedirxanugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bedirxanugur" height="30" width="50" /></a>
+<a href="https://instagram.com/bedirxanugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bedirxanugur" height="30" width="50" /></a>
+<a href="https://linkedin.com/in/bedirxanugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bedirxanugur" height="30" width="50" /></a>
 </p>
  
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Threejs](https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![p5js](https://img.shields.io/badge/P5.js-ED225D?style=flat&logo=p5.js&logoColor=FFFFFF)
