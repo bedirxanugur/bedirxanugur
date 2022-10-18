@@ -7,7 +7,6 @@
  
 
 ```
-// tools_I_use organized
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "Java", "Python", "Javascript" },
