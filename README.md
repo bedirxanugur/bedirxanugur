@@ -2,7 +2,7 @@
 <h4 align="left">Hi, I'm Bedirhan Ugur</h4>
 <h4 align="left">I'm a Creative Developer. I'm interested in Computer Art.<br>I explore styles and scenes focusing on technology, nature and geometric forms.</h4>
  
-<img src="https://thumbs.gfycat.com/TanDapperBorderterrier.webp" alt="" width="320" height="500" align="right">
+<img src="https://thumbs.gfycat.com/TanDapperBorderterrier.webp" alt="" width="300" height="300" align="right">
 <br/>
  
 
@@ -21,4 +21,4 @@ class About extends Me {
 ```
  
 
-[![](https://visitcount.itsvg.in/api?id=bedirxanugur&icon=2&color=12)](https://visitcount.itsvg.in)
+ 
