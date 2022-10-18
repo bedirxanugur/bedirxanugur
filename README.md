@@ -17,6 +17,9 @@ class About extends Me {
   };
 }
 ```
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=bedirxanugur)](https://github.com/gazf/github-readme-twitter)
+
  
 
  
