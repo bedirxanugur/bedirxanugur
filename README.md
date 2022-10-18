@@ -1,10 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=539bf5&width=435&lines=Hi%2C+I'm+Bedirhan+Ugur;I'm+a+Creative+Developer.+;I'm+interested+in+Computer+Art.)](https://git.io/typing-svg)
-
-<div>
-<a href="https://www.behance.net/bedirxanugur" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>  
-</div>  
  
  
 <img src="https://thumbs.gfycat.com/TanDapperBorderterrier.webp" alt="" width="200" height="200" align="right">
