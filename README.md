@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=f1e05a&width=435&lines=Hi%2C+I'm+Bedirhan+Ugur;I'm+a+Creative+Developer.+;I'm+interested+in+Computer+Art.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=333333&width=435&lines=Hi%2C+I'm+Bedirhan+Ugur;I'm+a+Creative+Developer.+;I'm+interested+in+Computer+Art.)](https://git.io/typing-svg)
 
-<div align="center">
+<div>
 <a href="https://twitter.com/bedirxanugur" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
