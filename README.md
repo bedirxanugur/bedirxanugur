@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=333333&width=435&lines=Hi%2C+I'm+Bedirhan+Ugur;I'm+a+Creative+Developer.+;I'm+interested+in+Computer+Art.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=539bf5&width=435&lines=Hi%2C+I'm+Bedirhan+Ugur;I'm+a+Creative+Developer.+;I'm+interested+in+Computer+Art.)](https://git.io/typing-svg)
 
 <div>
 <a href="https://twitter.com/bedirxanugur" target="_blank">
