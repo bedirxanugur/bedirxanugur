@@ -19,7 +19,9 @@ class About extends Me {
 ```
  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bedirxanugur)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bedirxanugur&theme=xcode)  
+ 
+
 
 ![GitHub metrics](https://metrics.lecoq.io/bedirxanugur)  
 
