@@ -17,9 +17,14 @@ class About extends Me {
   };
 }
 ```
+ 
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=bedirxanugur)](https://github.com/gazf/github-readme-twitter)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bedirxanugur)  
 
+![GitHub metrics](https://metrics.lecoq.io/bedirxanugur)  
+
+
+ 
  
 
  
