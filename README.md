@@ -1,6 +1,6 @@
 
-<h3 align="left">Hi, I'm Bedirhan Ugur</h3>
-<h3 align="left">I'm a Creative Developer. I'm interested in Computer Art.<br>I explore styles and scenes focusing on technology, nature and geometric forms.</h3>
+<h4 align="left">Hi, I'm Bedirhan Ugur</h4>
+<h4 align="left">I'm a Creative Developer. I'm interested in Computer Art.<br>I explore styles and scenes focusing on technology, nature and geometric forms.</h4>
  
 <img src="https://thumbs.gfycat.com/TanDapperBorderterrier.webp" alt="" width="320" height="500" align="right">
 <br/>
