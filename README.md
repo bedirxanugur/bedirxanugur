@@ -2,7 +2,7 @@
 <h4 align="left">Hi, I'm Bedirhan Ugur</h4>
 <h4 align="left">I'm a Creative Developer. I'm interested in Computer Art.<br>I explore styles and scenes focusing on technology, nature and geometric forms.</h4>
  
-<img src="https://thumbs.gfycat.com/TanDapperBorderterrier.webp" alt="" width="300" height="300" align="right">
+<img src="https://thumbs.gfycat.com/TanDapperBorderterrier.webp" alt="" width="250" height="250" align="right">
 <br/>
  
 
