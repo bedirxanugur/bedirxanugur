@@ -5,10 +5,10 @@
 ```
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Java", "Python", "Javascript" },
-    "OtherLanguages" : { "HTML", "CSS", "Json", "Markdown" },
+    "ProgramingLanguages" : { "Javascript" },
+    "OtherLanguages" : { "Markdown", "HTML", "CSS", "Json" },
     "Database" : { "Sqlite" },
-    "Editors" : { "Vscode", "Sublime" },
+    "Editors" : { "Vscode", " Vim" },
     "Platforms" : { "GNU/Linux", "Windows" },
     "OtherTools" : { "Git", "Figma", "Photoshop" }
   };
