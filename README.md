@@ -5,7 +5,7 @@
 ```
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Javascript" },
+    "ProgramingLanguages" : { "Javascript", "Pure Data" },
     "OtherLanguages" : { "Markdown", "HTML", "CSS", "Json" },
     "Database" : { "Sqlite" },
     "Editors" : { "Vscode", " Vim" },
