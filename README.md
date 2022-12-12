@@ -14,10 +14,6 @@ class About extends Me {
   };
 }
 ```
-
-
- 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bedirxanugur&bg_color=22272e&color=ffffff&line=fd8c73&point=ebebeb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ![GitHub metrics](https://metrics.lecoq.io/bedirxanugur)  
 
