@@ -1,4 +1,4 @@
-I am researching art with a focus on technology
+I am researching art with a focus on technology.
 
 ```
 class About extends Me {
