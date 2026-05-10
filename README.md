@@ -1,4 +1,4 @@
-I research the intersection of art, technology, and physical computation.
+I create physical systems that emerge from computation.
 
 ```
 class About extends Me {
