@@ -1,4 +1,4 @@
-I create physical systems that emerge from computation.
+I create physical systems that emerge from computation
 
 ```
 class About extends Me {
