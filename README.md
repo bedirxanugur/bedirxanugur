@@ -1,7 +1,7 @@
-I create physical systems that emerge from computation.
+I create systems that emerge from computation.
 
 ```javascript
-// GhostInTheShell.js
+// WhoAmI.js
 
 class Me extends GhostInTheShell {
   tools = {
