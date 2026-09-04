@@ -1,4 +1,4 @@
-I create systems that emerge from computation.
+Systems emerge from computation.
 
 ```javascript
 // WhoAmI.js
